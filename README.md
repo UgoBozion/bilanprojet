@@ -1,5 +1,7 @@
 # Installation de Docker et lancement de WordPress et Zabbix avec Docker Compose
 
+Tout d'abord il faudra télécharger les fichiers a l'aide de la commande git clone https://github.com/UgoBozion/bilanprojet/
+
 ## Étapes d'installation de Docker
 1. **Télécharger et exécuter le script d'installation**  
    Pour installer Docker, lancez le script `install_docker.sh` avec la commande suivante :  
