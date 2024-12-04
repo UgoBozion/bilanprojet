@@ -1,4 +1,4 @@
-**# Installation de Docker et lancement de WordPress avec Docker Compose
+# Installation de Docker et lancement de WordPress et Zabbix avec Docker Compose
 
 ## Étapes d'installation de Docker
 1. **Télécharger et exécuter le script d'installation**  
